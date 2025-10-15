@@ -1,7 +1,7 @@
 
 # STUDI KASUS 4  SISTEM PEMESANAN KAMAR HOTEL 
 Nama kelompok:1.Dzaky Alfareza Zahari (G1A025005)
-              2.Angel Ayu Diaz Thealovi (G1A025037)
+              2.Angel Ayu Diaz Theovi (G1A025037)
               3.Ghina Salwa Salsabilla (G1A025067)
 # OVERVIEW SISTEM
 Program sistem pemesanan kamar hotel ini dibangun untuk memenuhi kebutuhan pengelolaan pemesanan kamar oleh tamu hotel dengan berbagai tipe kamar yang tersedia. Sistem dirancang menggunakan bahasa pemrograman Java dengan paradigma berorientasi objek (OOP) untuk memastikan modularitas, keamanan data, dan kemudahan pengembangan.
